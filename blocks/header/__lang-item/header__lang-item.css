@@ -1,0 +1,10 @@
+.header__lang-item{
+  display: inline-block;
+  margin: 18px 0 6px 18px;
+}
+@media screen and (max-width: 425px){
+  .header__lang-item{
+    margin-top: 14px;
+    margin-bottom: 8px;
+  }
+}
